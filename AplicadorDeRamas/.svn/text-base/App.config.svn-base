@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="Url" value="http://eoldev.errepar.com/sitios/eolgestion"/>
+    <add key="UrlBusqueda" value="http://eoldev.errepar.com/sitios/eolbusqueda"/>
+    <add key="Servicio" value="Servicio de Metadatos para EOL"/>
+    <add key="Grupo" value="Errepar On Line"/>
+    <add key="TermSet" value="Índice de Contenidos"/>
+    <add key="Property" value="owstaxIdeolIndiceDeContenidos"/>
+    <add key="Field" value="eolIndiceDeContenidos"/>
+    <add key="CampoOrden" value="eolOrden"/>
+  </appSettings>
+</configuration>
